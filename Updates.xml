@@ -1,0 +1,20 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.vendor.product</Name>
+  <DisplayName>The root component</DisplayName>
+  <Description>Install The BMS Diagnostic Tool.</Description>
+  <Version>1.0.1</Version>
+  <ReleaseDate>2026-01-19</ReleaseDate>
+  <Default>script</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="15947915" OS="Any" UncompressedSize="55576481"/>
+  <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <UserInterfaces>page.ui</UserInterfaces>
+  <SHA1>a86357bf403a5cdbde8befad5692ebf8eff6cb28</SHA1>
+ </PackageUpdate>
+ <SHA1>617600a4fb14405b851c4112ec3940eaf63e1449</SHA1>
+ <MetadataName>2026-01-22-1120_meta.7z</MetadataName>
+</Updates>
